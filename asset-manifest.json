@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flutter-testing/static/css/main.e6c13ad2.css",
-    "main.js": "/flutter-testing/static/js/main.2dd609c1.js",
-    "static/js/787.3b22c765.chunk.js": "/flutter-testing/static/js/787.3b22c765.chunk.js",
-    "index.html": "/flutter-testing/index.html",
-    "main.e6c13ad2.css.map": "/flutter-testing/static/css/main.e6c13ad2.css.map",
-    "main.2dd609c1.js.map": "/flutter-testing/static/js/main.2dd609c1.js.map",
-    "787.3b22c765.chunk.js.map": "/flutter-testing/static/js/787.3b22c765.chunk.js.map"
+    "main.css": "/flutter-testing/App.js/static/css/main.e6c13ad2.css",
+    "main.js": "/flutter-testing/App.js/static/js/main.3003a747.js",
+    "static/js/787.3b22c765.chunk.js": "/flutter-testing/App.js/static/js/787.3b22c765.chunk.js",
+    "index.html": "/flutter-testing/App.js/index.html",
+    "main.e6c13ad2.css.map": "/flutter-testing/App.js/static/css/main.e6c13ad2.css.map",
+    "main.3003a747.js.map": "/flutter-testing/App.js/static/js/main.3003a747.js.map",
+    "787.3b22c765.chunk.js.map": "/flutter-testing/App.js/static/js/787.3b22c765.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2dd609c1.js"
+    "static/js/main.3003a747.js"
   ]
 }
